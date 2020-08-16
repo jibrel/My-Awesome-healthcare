@@ -4,7 +4,7 @@ Table of Contents
 
   * [EHR](#EHR)
   * [DICOM](#DICOM)
-  * [yazid jibrel](#yazid jibrel)
+  * [yazid jibrel](#yazid-jibrel)
   * [Available plugins](#available-plugins)
   * [Usage](#usage)
 
