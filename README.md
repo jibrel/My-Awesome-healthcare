@@ -90,10 +90,10 @@ Table of Contents
 	2. to be accessible for rapid innovation and evolution,
 	3. and to become more valuable as more patients, clinicians, clinics, companies, and governments engage in healthcare for all.
 13. [MITRE](https://www.mitre.org/publication-keywords/public-health) At MITRE, we solve problems for a safer world. Through our federally funded R&D centers and public-private partnerships, we work across government to tackle challenges to the safety, stability, and well-being of our nation.
-14. [Flux notes](https://fluxnotes.org/) One of the best inspiring projects to design medical records. It has a unique view of how the medical record notes should be designed. Read the whole design story of Flux notes.
+14. [Flux notes](https://fluxnotes.org/) One of the best inspiring projects to design medical records. It has a unique view of how the medical record notes should be designed. Read the whole design story of [Flux notes](https://edchoi.com/project_fluxnotes.html).
 15. Asymmetrik 
 16. CPRS VISTA
-17. 
+17. Health samurai open source contributions
 
 
 # DICOM
@@ -101,12 +101,16 @@ Table of Contents
 # Specifications 
 
 # Prescribing 
+*   [OpenEP](https://github.com/ehrscape/examples/tree/master/openep) - Suite of medicines management apps that improve the safety and efficiency of prescribing and medicines management.
 
 # Nursing 
+*   [open-eObs](https://openeobs.github.io/) - Observation and clinical assessment platform that offers a real-time view of all patients across a ward.
 
 # Imaging 
 
 # Laboratory
+*   [OpenELIS](https://sites.google.com/site/openelisglobal/) - Laboratory Information System for Global Health.
+*   [SENAITE](https://www.senaite.com) - Laboratory Information Management System.
 
 # Dental
 
